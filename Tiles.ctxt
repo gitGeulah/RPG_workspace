@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tilesFile\ spriteSheet
+comment0.target=Tiles(java.io.File,\ SpriteSheet)
+comment1.params=tileID\ renderer\ xPosition\ yPosition\ xZoom\ yZoom
+comment1.target=void\ renderTile(int,\ RenderHandler,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=Sprite[]\ getSprites()
+numComments=4

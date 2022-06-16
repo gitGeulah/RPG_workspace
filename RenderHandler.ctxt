@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=RenderHandler(int,\ int)
+comment1.params=graphics
+comment1.target=void\ render(java.awt.Graphics)
+comment2.params=image\ xPosition\ yPosition\ xZoom\ yZoom\ fixed
+comment2.target=void\ renderImage(java.awt.image.BufferedImage,\ int,\ int,\ int,\ int,\ boolean)
+comment3.params=sprite\ xPosition\ yPosition\ xZoom\ yZoom\ fixed
+comment3.target=void\ renderSprite(Sprite,\ int,\ int,\ int,\ int,\ boolean)
+comment4.params=rectangle\ xZoom\ yZoom\ fixed
+comment4.target=void\ renderRectangle(Rectangle,\ int,\ int,\ boolean)
+comment5.params=rectangle\ offset\ xZoom\ yZoom\ fixed
+comment5.target=void\ renderRectangle(Rectangle,\ Rectangle,\ int,\ int,\ boolean)
+comment6.params=renderPixels\ renderWidth\ renderHeight\ xPosition\ yPosition\ xZoom\ yZoom\ fixed
+comment6.target=void\ renderArray(int[],\ int,\ int,\ int,\ int,\ int,\ int,\ boolean)
+comment7.params=pixel\ x\ y\ fixed
+comment7.target=void\ setPixel(int,\ int,\ int,\ boolean)
+comment8.params=
+comment8.target=Rectangle\ getCamera()
+comment9.params=
+comment9.target=void\ clear()
+numComments=10

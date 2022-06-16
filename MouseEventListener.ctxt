@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=MouseEventListener(Game)
+comment1.params=event
+comment1.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment2.params=event
+comment2.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment3.params=event
+comment3.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment4.params=event
+comment4.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment5.params=event
+comment5.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment6.params=event
+comment6.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment7.params=event
+comment7.target=void\ mouseReleased(java.awt.event.MouseEvent)
+numComments=8

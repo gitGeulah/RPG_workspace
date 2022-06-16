@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=backgroundSprite\ buttons\ x\ y\ fixed
+comment0.target=GUI(Sprite,\ GUIButton[],\ int,\ int,\ boolean)
+comment1.params=buttons\ x\ y\ fixed
+comment1.target=GUI(GUIButton[],\ int,\ int,\ boolean)
+comment2.params=renderer\ xZoom\ yZoom
+comment2.target=void\ render(RenderHandler,\ int,\ int)
+comment3.params=game
+comment3.target=void\ update(Game)
+comment4.params=mouseRectangle\ camera\ xZoom\ yZoom
+comment4.target=boolean\ handleMouseClick(Rectangle,\ Rectangle,\ int,\ int)
+numComments=5

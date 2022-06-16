@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sprite
+comment0.target=Player(Sprite)
+comment1.params=
+comment1.target=void\ updateDirection()
+comment2.params=renderer\ xZoom\ yZoom
+comment2.target=void\ render(RenderHandler,\ int,\ int)
+comment3.params=game
+comment3.target=void\ update(Game)
+comment4.params=camera
+comment4.target=void\ updateCamera(Rectangle)
+comment5.params=mouseRectangle\ camera\ xZoom\ yZoom
+comment5.target=boolean\ handleMouseClick(Rectangle,\ Rectangle,\ int,\ int)
+numComments=6

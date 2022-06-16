@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=renderer\ xZoom\ yZoom
+comment0.target=void\ render(RenderHandler,\ int,\ int)
+comment1.params=game
+comment1.target=void\ update(Game)
+comment2.params=mouseRectangle\ camera\ xZoom\ yZoom
+comment2.target=boolean\ handleMouseClick(Rectangle,\ Rectangle,\ int,\ int)
+numComments=3
